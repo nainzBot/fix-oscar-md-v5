@@ -76,7 +76,7 @@ global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
-//global sosialmedia oscar
+//global sosialmedia oscar Jangan Di Ganti Kalo Bisa!!
 global.sc = "⫹⫺ Nih Jangan Lupa Kasih Star https://github.com/JarotOffc?tab=repositories"
 global.sgc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.gc = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
