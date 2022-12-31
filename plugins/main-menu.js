@@ -324,22 +324,22 @@ return conn.sendMessage(m.chat, listMessage, { quoted: fkontak, mentions: await 
 	 message: { "contactMessage": { "title":"sri","h": `haloo`, 'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')}}
 	}
     //------------------ DOCUMENT
-let gh = 'https://github.com/JarotOffc?tab=repositories'
+let gh = 'https://github.com/nainzBot?tab=repositories'
 let buttonMessage= {
 'document':{'url':gh},
 'mimetype': 'application/pdf',
-'fileName':'𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚢 𝙹𝚊𝚛𝚘𝚝',
+'fileName':'Bot WhatsApp By NainOfc',
 'fileLength':'99999999999999',
 'pageCount':'999',
 'contextInfo':{
 'externalAdReply':{
 'showAdAttribution': true, 
-'mediaUrl': 'https://instagram.com/jarotr_',
-'title': '𝙱𝙾𝚃 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝚈 𝙹𝙰𝚁𝙾𝚃',
+'mediaUrl': 'https://instagram.com/dikaaxzy_',
+'title': 'BOT MULTI DEVICE BY NAIN OFC',
 'body':'',
 'mediaType': 2,
 'thumbnail': fs.readFileSync('./thumbnail.jpg'),
-'sourceUrl': 'https://instagram.com/jarotr_'}},
+'sourceUrl': 'https://instagram.com/dikaaxzy_'}},
 'caption': `             *『 D A S H B O A R D』*`,
 'footer': text,
 'buttons':[
