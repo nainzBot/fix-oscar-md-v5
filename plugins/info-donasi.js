@@ -36,7 +36,7 @@ Berapapun donasi kalian akan sangat berarti 👍
 Arigatou!
 
 Contact person Owner:
- ࿑ Owner wa.me/6285850539404 ( pemilik bot )`
+ ࿑ Owner wa.me/6288223674569 ( pemilik bot )`
 let nth = `*Support Kizu Multi-Device*`
 conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`, nth, rules, 'Sosial Media', '.sosialmedia', 'Owner', '.owner', 'Donasi', '.donasi', fcon, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://wa.me/p/5489299044451325/6288223674569',
