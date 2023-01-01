@@ -22,8 +22,8 @@ const defaultMenu = {
   body: '*│*⦁ %cmd %islimit %isPremium',
   footer: '*└────⦁*\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+ *Kizu-md@^1.0.2*
+${'```Kizu-MultiDevice```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
